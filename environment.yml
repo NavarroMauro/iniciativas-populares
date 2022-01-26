@@ -1,0 +1,8 @@
+name: iniciativas_populares
+dependencies:
+  - plotly
+  - bs4
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
